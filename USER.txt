@@ -1,0 +1,11 @@
+admin
+admin12345
+
+peternak1@gmail.com
+peternak1
+
+dokter1@gmail.com
+dokter1
+
+pelanggan1@gmail.com
+pelanggan1
